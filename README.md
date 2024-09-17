@@ -6,3 +6,5 @@ https://medium.com/proandroiddev/looks-like-a-viewpager-sounds-like-a-viewpager-
 https://medium.com/@nicolas.duponchel/custom-itemdecoration-3b244de437d9
 ### clean arch
 https://medium.com/codex/from-junior-to-senior-the-real-way-to-implement-clean-architecture-in-android-8514005e85e1
+### design pattern
+https://proandroiddev.com/zero-to-hero-in-android-kotlin-creational-design-patterns-a972375c352a
